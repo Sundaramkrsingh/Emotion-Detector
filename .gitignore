@@ -1,0 +1,19 @@
+# Ignore virtual environments
+venv/
+env/
+.venv/
+
+# Ignore cache and checkpoints
+__pycache__/
+.ipynb_checkpoints/
+.cache/
+
+# Ignore model files
+*.pkl
+*.joblib
+*.sav
+
+# Ignore OS and editor files
+.DS_Store
+.vscode/
+dataset/
