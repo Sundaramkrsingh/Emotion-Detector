@@ -9,3 +9,5 @@ A very basic Logistic Regression model for emotion detection
 
 ### UI
 - streamlit
+
+<img src="assets/streamlit.png" alt="Company logo" width="100" height="100">
